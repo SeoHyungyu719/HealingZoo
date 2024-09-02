@@ -38,7 +38,7 @@
 </div><br/>
 <h3 align="center">>Tool</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/sqlDeveloper-4479A1" height="25">
+  <img src="https://img.shields.io/badge/sqlDeveloper-4479A1?style=flat-square" height="25">
 </div><br/>
 <h3 align="center">>WAS</h3>
 <div align="center">
