@@ -1,4 +1,4 @@
-<p style="font:35px;">힐링주 - <img style="width:50px; height:50px;" src="https://github.com/user-attachments/assets/13580612-435b-47c5-8b11-b18fa0ec6d9f"></p>
+<h1>힐링주 - <img style="width:50px; height:50px;" src="https://github.com/user-attachments/assets/13580612-435b-47c5-8b11-b18fa0ec6d9f"></h1>
 <hr/>
 
 
