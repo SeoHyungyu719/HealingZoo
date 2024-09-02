@@ -56,6 +56,8 @@
   <img src="https://github.com/user-attachments/assets/03a46b98-f30e-46c4-b215-4d218fc05659">
 </div>
 <h1>3.ERD 설계도</h1>
+<h3>>>erd 링크 바로가기 : https://www.erdcloud.com/d/ddkcTthy8NNnp86Fz</h3>
+<img src="https://github.com/user-attachments/assets/6a97d072-f8fa-491d-9b5a-933348fbdcbe">
 <h1>4.맡은 기능</h1>
 <h1>5.기능별 화면 소개</h1>
 
