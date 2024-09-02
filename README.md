@@ -50,6 +50,7 @@
   <img src="https://img.shields.io/badge/googledrive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/erdcloud-000000?style=flat-square" height="25">
 </div>
 <hr/>
 <h1>2.프로젝트 주요 기능</h1>
