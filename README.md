@@ -10,8 +10,36 @@
 <hr/>
 <h2>사용 기술 스택</h2>
 
-  <p align="center">Front-end</p>
+<p align="center">운영체제</p>
+<div align="center"><img src="https://img.shields.io/badge/window-3A76F0"></div>
+<p align="center">FrontEnd</p>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<p align="center">BackEnd</p>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/myBatis-333333">
+<img src="https://img.shields.io/badge/java 11-4B4B77">
+<p align="center">FrameWork/Library</p>
+<p align="center">DataBase</p>
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+<p align="center">Tool</p>
+<img src="https://img.shields.io/badge/sqlDeveloper-4479A1">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<p align="center">WAS</p>
+<img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+<p align="center">Collaboration</p>
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/googledrive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+
+
+
+
+
+
+
+
 
 
