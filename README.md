@@ -6,9 +6,10 @@
 1.기술스택<br/><br/>
 2.프로젝트 주요 기능<br/><br/>
 3.ERD 설계도<br/><br/>
-4.기능별 화면 소개<br/><br/>
+4.맡은 기능<br/><br/>
+5.기능별 화면 소개<br/><br/>
 <hr/>
-<h2>사용 기술 스택</h2>
+<h2>1.사용 기술 스택</h2>
 
 <h3 align="center">>운영체제</h3>
 <div align="center">
@@ -50,9 +51,13 @@
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="25">
 </div>
 <hr/>
-<h1>프로젝트 주요 기능</h1>
-
-
+<h1>2.프로젝트 주요 기능</h1>
+<div align="center" >
+  <img src="https://github.com/user-attachments/assets/03a46b98-f30e-46c4-b215-4d218fc05659">
+</div>
+<h1>3.ERD 설계도</h1>
+<h1>4.맡은 기능</h1>
+<h1>5.기능별 화면 소개</h1>
 
 
 
