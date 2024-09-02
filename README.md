@@ -11,7 +11,7 @@
 <h2>사용 기술 스택</h2>
 
   <p align="center">Front-end</p>
-<img src="https://img.shields.io/badge/spring?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
-  
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
 
