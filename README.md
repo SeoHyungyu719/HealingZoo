@@ -7,3 +7,9 @@
 2.프로젝트 주요 기능<br/><br/>
 3.ERD 설계도<br/><br/>
 4.기능별 화면 소개<br/><br/>
+<hr/>
+<h2>사용 기술 스택</h2>
+<div style="text-align:center;">
+  <p></p>
+</div>
+
