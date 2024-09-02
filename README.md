@@ -9,7 +9,9 @@
 4.기능별 화면 소개<br/><br/>
 <hr/>
 <h2>사용 기술 스택</h2>
-<div style="text-align:center;">
-  <p></p>
-</div>
+
+  <p align="center">Front-end</p>
+
+  
+
 
