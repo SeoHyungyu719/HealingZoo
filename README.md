@@ -13,7 +13,7 @@
 
 <h3 align="center">>운영체제</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/window-3A76F0?style=flat-square" height="25">
+  <img src="https://img.shields.io/badge/window 10-3A76F0?style=flat-square" height="25">
 </div><br/>
 <h3 align="center">>FrontEnd</h3>
 <div align="center">
