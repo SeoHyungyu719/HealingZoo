@@ -112,9 +112,15 @@
 <h1>5.기능별 코드 소개</h1>
 내 정보 조회/수정 
 https://github.com/SeoHyungyu719/HealingZoo/blob/15abf78a6820ad734008ff2713dce2a223456705/HealingZoo_Complete/src/main/java/com/semiproject/healingzoo/member/controller/MemberController.java#L151
-
-
-
+<br/><br/>
+내 게시글 조회
+https://github.com/SeoHyungyu719/HealingZoo/blob/d9fc71552443eebaa40ebf47628862c527da74e7/HealingZoo_Complete/src/main/java/com/semiproject/healingzoo/member/controller/MemberController.java#L270
+<br/><br/>
+내 댓글 관리
+https://github.com/SeoHyungyu719/HealingZoo/blob/d9fc71552443eebaa40ebf47628862c527da74e7/HealingZoo_Complete/src/main/java/com/semiproject/healingzoo/member/controller/MemberController.java#L315
+<br/><br/>
+회원관리
+https://github.com/SeoHyungyu719/HealingZoo/blob/d9fc71552443eebaa40ebf47628862c527da74e7/HealingZoo_Complete/src/main/java/com/semiproject/healingzoo/admin/controller/AdminController.java#L1756
 
 
 
