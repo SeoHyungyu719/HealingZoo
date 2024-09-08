@@ -109,7 +109,7 @@
   </tbody>
 </table>  
 </div>
-<h1>5.기능별 코드 소개</h1>
+<h1>5.기능별 코드</h1>
 내 정보 조회/수정 
 https://github.com/SeoHyungyu719/HealingZoo/blob/15abf78a6820ad734008ff2713dce2a223456705/HealingZoo_Complete/src/main/java/com/semiproject/healingzoo/member/controller/MemberController.java#L151
 <br/><br/>
