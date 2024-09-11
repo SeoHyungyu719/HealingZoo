@@ -113,15 +113,15 @@
 <h3>내 정보 조회/수정</h3><br/>
 <img src="https://github.com/user-attachments/assets/5fa6c311-302a-43b2-a311-f53399efa335"><br/>
 https://github.com/SeoHyungyu719/HealingZoo/blob/15abf78a6820ad734008ff2713dce2a223456705/HealingZoo_Complete/src/main/java/com/semiproject/healingzoo/member/controller/MemberController.java#L151
-<br/><br/>
+<br/><br/><hr>
 <h3>내 게시글 조회</h3><br/>
 <img src="https://github.com/user-attachments/assets/f6a6cdc7-7b90-49b5-9672-2bf0ef201f47"><br/>
 https://github.com/SeoHyungyu719/HealingZoo/blob/d9fc71552443eebaa40ebf47628862c527da74e7/HealingZoo_Complete/src/main/java/com/semiproject/healingzoo/member/controller/MemberController.java#L270
-<br/><br/>
+<br/><br/><hr>
 <h3>내 댓글 관리</h3><br/>
 <img src="https://github.com/user-attachments/assets/aed1a4f8-5807-4c49-946f-960d66c78f2a">
 https://github.com/SeoHyungyu719/HealingZoo/blob/d9fc71552443eebaa40ebf47628862c527da74e7/HealingZoo_Complete/src/main/java/com/semiproject/healingzoo/member/controller/MemberController.java#L315
-<br/><br/>
+<br/><br/><hr>
 <h3>회원관리</h3><br/>
 <img src="https://github.com/user-attachments/assets/4829d324-916c-4995-8078-8d9e36b7f174">
 <img src="https://github.com/user-attachments/assets/a8306273-b6c4-4b73-a317-296253620748">
